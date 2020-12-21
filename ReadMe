@@ -1,0 +1,14 @@
+Instructions to run:
+- IDE used is PyCharm
+- Keep Client.py,server.py and the Home.html files in the same folder.
+- Run server.py
+-python server.py
+- Run client.py
+-python client.py
+-For successful connection:
+give the URL.It can be any of the below:
+> http://localhost:8080/index.html
+> http://localhost:8080/
+> http://localhost:8080/C:/Users/Test/PycharmProjects/cn/Home.html
+-For a failed connection:
+enter any random string value!
