@@ -1,1 +1,7 @@
-The Web server and Web client communicate using a text-based protocol called HTTP (Hypertext Transfer Protocol).The purpose of this project is to understand client server communication via Sockets ,Gain exposure of basic operations of a Web server and a client and explore basic structures of the HTTP Message.
+The Web server and Web client communicate using a text-based protocol called HTTP (Hypertext Transfer Protocol).
+The purpose of this project is to:
+      understand client server communication via Sockets 
+      Gain exposure of basic operations of a Web server and a client
+      Explore basic structures of the HTTP Message.
+
+Check the ReadMe file for steps to execute.
